@@ -17,3 +17,8 @@ The below descriptions of each notebook are written in the order of the pipeline
 5. `reconstuction.ipynb`: An explanatory notebook for the gradient -> SST re-construction algorithm.
 6. `region.ipynb`: Grid a large ocean region, apply the model, re-stitch, re-construct and find the power spectrum.
 ## Main References
+- [L4 data product](doi.org/10.1038/s41597-024-03147-w)
+- [Code for obtaining gR data](github.com/surftemp/sst-gradients)
+- [Super-resolution architectures](doi.org/10.3390/rs14051159)
+
+
