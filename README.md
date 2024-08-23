@@ -1,7 +1,7 @@
 # Super-Resolution of Global Ocean Surface Temperature by Deep Learning
 This is a summer research project carried out at the University of Reading Dept. of Meteorology.\
-**Research by:** Matthew Howarth\
-**Supervised by:** Prof. Chris Merchant, Dr. Niall McCarroll
+- **Research by:** Matthew Howarth\
+- **Supervised by:** Prof. Chris Merchant, Dr. Niall McCarroll
 ## Research Overview
 - Deep convolutional neural networks are designed in PyTorch and applied to super-resolve level 4 (L4) sea surface temperature (SST) data into gradient-restored (gR) data
 - A gridding and blending algorithm is written to apply the model to large ocean regions, and transform from the gradient -> SST domain
